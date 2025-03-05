@@ -35,7 +35,7 @@ Saída:
 Criar um arquivo input.txt com as informaçoes de Altura e comprimento dos blocos a serem feitos pelo programa. 
 
 ``` sh
-javac laser.java
+javac Laser.java
 java laser < input.text > output.txt 
 diff output.txt sample.txt
 
